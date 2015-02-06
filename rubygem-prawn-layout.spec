@@ -3,7 +3,7 @@
 Summary:    An extension to Prawn that provides table support
 Name:       rubygem-%{oname}
 Version:    0.8.4
-Release:    %mkrel 1
+Release:    2
 Group:      Development/Ruby
 License:    Ruby or GPLv2
 URL:        http://prawn.majesticseacreature.com
